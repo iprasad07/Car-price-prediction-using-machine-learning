@@ -15,18 +15,16 @@ Join me in this video as we explore every stage of the project – from data col
 
 Whether you're an aspiring data scientist, a machine learning enthusiast, or simply eager to leverage predictive analytics in the automotive domain, this video holds invaluable insights and practical knowledge to propel you forward. 📈🚀
 
-## ✨Tech Stack
+
 
 **Scripting Language:** Python, HTML, CSS, JAVASCRIPT
 
 **backend:** Flask
 
-## 🔴 Video tutorial!
-Project demo :- https://youtu.be/fZyrNhODfBw
 
-<img src="https://github.com/AdityaWadkar/Advanced-Car-Price-Predictor/assets/67093170/47b1e44c-2fa7-4137-b514-fea26932b918">
 
+<img src="[https://github.com/iprasad07/Car-price-prediction-using-machine-learning">
 
 ## Authors
 
-- [@Aditya Wadkar](https://www.github.com/AdityaWadkar)
+- [@iprasad07](https://github.com/iprasad07)
