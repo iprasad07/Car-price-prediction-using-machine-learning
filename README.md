@@ -11,11 +11,6 @@ Using Python's magic, I've harnessed the might of Linear Regression, a cutting-e
 
 But that's not all! 🌟🚀 I'll also walk you through the journey from a basic car price prediction project to an advanced one, showcasing how a GUI can elevate your model's usability and interactivity. 🖥️💪
 
-Join me in this video as we explore every stage of the project – from data collection and preprocessing to feature selection, model building, training, and evaluation. 📚🔍✂️🧰 By the end, you'll possess a rock-solid foundation in advanced techniques, empowering you to create your own robust car price prediction model. 🏆💡
-
-Whether you're an aspiring data scientist, a machine learning enthusiast, or simply eager to leverage predictive analytics in the automotive domain, this video holds invaluable insights and practical knowledge to propel you forward. 📈🚀
-
-
 
 **Scripting Language:** Python, HTML, CSS, JAVASCRIPT
 
